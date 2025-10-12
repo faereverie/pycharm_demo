@@ -10,3 +10,4 @@ print('')
 print('Apparently I committed, it just didnt show up when I refreshed')
 
 print('Ok lets try this again because I think I figured out my problem')
+print('That didnt solve it, what about this?')
